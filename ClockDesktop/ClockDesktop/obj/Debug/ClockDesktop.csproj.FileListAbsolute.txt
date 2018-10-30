@@ -1,0 +1,15 @@
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\bin\Debug\ClockDesktop.exe.config
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\bin\Debug\ClockDesktop.exe
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\bin\Debug\ClockDesktop.pdb
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\obj\Debug\ClockDesktop.csprojAssemblyReference.cache
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\obj\Debug\App.g.cs
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\obj\Debug\ClockDesktop_MarkupCompile.cache
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\obj\Debug\ClockDesktop_MarkupCompile.lref
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\obj\Debug\MainWindow.baml
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\obj\Debug\ClockDesktop.g.resources
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\obj\Debug\ClockDesktop.Properties.Resources.resources
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\obj\Debug\ClockDesktop.csproj.GenerateResource.cache
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\obj\Debug\ClockDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\obj\Debug\ClockDesktop.exe
+C:\Users\Jikpi\Desktop\ClockDesktop\ClockDesktop\obj\Debug\ClockDesktop.pdb
